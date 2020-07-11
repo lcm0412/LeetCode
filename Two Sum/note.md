@@ -7,9 +7,7 @@ It turns out we can do it in one-pass. While we iterate and inserting elements i
 
 ---
 
-## Why sorting is faster than O(n) Hashmap solution
-### author: msadler
-### March 6, 2019 2:17 PM
+## Why sorting is faster than O(n) Hashmap solution - msadler on March 6, 2019 2:17 PM
 
 I think it is highly dependent on test case input size and how sorted the input already is..
 
