@@ -1,6 +1,7 @@
 ---
 title: why sorting is faster than O(n) Hashmap solution
 author: msadler
+time: March 6, 2019 2:17 PM
 ---
 
 I think it is highly dependent on test case input size and how sorted the input already is..
